@@ -1,5 +1,5 @@
-Análisis Socioeconómico de Argentina y Modelo Predictivo de Pobreza (EPH T1 2024)
-📜 Descripción del Proyecto
+# Análisis Socioeconómico de Argentina y Modelo Predictivo de Pobreza (EPH T1 2024)
+## 📜 Descripción del Proyecto
 Este repositorio contiene un análisis de datos exhaustivo sobre la situación socioeconómica de Argentina, utilizando datos de la Encuesta Permanente de Hogares (EPH) publicada por el INDEC para el primer trimestre de 2024.
 
 El objetivo principal del proyecto es doble:
